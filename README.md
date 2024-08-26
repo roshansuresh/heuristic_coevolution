@@ -1,2 +1,2 @@
-# Heuristic_Coevolution_EOSS
- Coevolution-inspired incorporation of heuristic soft constraints for the EOSS and Metamaterial problems
+# CHIDO (Coevolutionary Heuristic Incorporation for Design Optimization)
+ Coevolution-inspired incorporation of expert design heuristics as soft constraints for the EOSS and Metamaterial problems
